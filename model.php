@@ -3,7 +3,7 @@
  * AmazonVc EDI 模型类
  * @author  2017-8-5 16:58:36 
  */
-class AmazonVc_EDI_Model{
+class Model{
 
 	/**
 	 * @var 基础配置
