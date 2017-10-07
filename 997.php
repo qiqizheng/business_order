@@ -3,7 +3,7 @@
  * EDI 997 Purchase Order
  * @author zhengqi 2017-9-26 18:18:07
  */
-class AmazonVc_EDI_997 extends AmazonVc_EDI_Model{
+class 997 extends Model{
 	
 	/**
 	 * @var 结构树
